@@ -1,0 +1,18 @@
+1.CloudInfra is founded by an Ex-Google Engineer
+2.with the mission to make
+3.quality software infrastructure
+4.for the cloud. We specialize in building large
+5.scale data processing frameworks for unstructured
+6.data. Our flagship product, CloudBash, provides a
+7.quick and easy way to process
+8.your logs/machine data.
+9.CloudBash is a revolutionary
+10.way to process
+11.big data, with simple Linux tools.
+12.No complex Map-Reduces needs to
+13.be built to analyze your data.
+14.You can easily use shell,
+15.perl, python and other simple
+16.Linux tools to process
+17.your big data in real time.
+18.Thank you.
